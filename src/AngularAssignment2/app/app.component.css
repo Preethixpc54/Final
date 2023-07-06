@@ -1,0 +1,11 @@
+.box{
+    height:300px;
+    width:300px;
+    padding:20px;
+    margin:20px;
+    background-color:white;
+    color:black;
+    float:left;
+    box-shadow:2px 2px 5px gray;
+    
+    }

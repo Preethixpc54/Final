@@ -1,0 +1,30 @@
+.box {
+    height: 602px;
+    width: 27%;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    color: black;
+    float: left;
+    box-shadow: 2px 2px 5px gray;
+  }
+  
+  .box img.news {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .box .date {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .box .location:before {
+    content: 'Location: ';
+  }
+  
+  .box .date:before {
+    content: 'Date: ';
+  }

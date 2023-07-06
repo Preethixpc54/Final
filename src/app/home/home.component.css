@@ -1,0 +1,35 @@
+.box{
+    height:300px;
+    width:300px;
+    padding:20px;
+    margin:20px;
+    background-color:white;
+    color:black;
+    float:left;
+    box-shadow:2px 2px 5px gray;
+    
+    }
+
+    #content-area{
+
+        height:250px;
+        width:100%;
+        padding: 20px;
+        margin: 20px;
+        background-color: white;
+        color: black;
+        float: left;
+        box-shadow: 2px 2px 5px gray; 
+      }
+      
+      #footer{
+
+        width:100%;
+       
+        float: left;
+       height:10px;
+      }
+      
+      #Galleryhed{
+        text-align:center;
+      }

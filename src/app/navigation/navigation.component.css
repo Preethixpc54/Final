@@ -1,0 +1,46 @@
+#subheader{
+
+    width:75%;
+    float:left;
+}
+
+#navigation{
+    width:25%;
+    float:right;
+}
+
+#subheader p{
+
+    width:60%;
+    
+}
+
+#Navigationcontent{
+    height: 150px;
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    box-shadow: 2px 2px 5px gray;
+    background-color: lightgrey;
+
+}
+
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu li {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+  }

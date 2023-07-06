@@ -1,0 +1,13 @@
+<app-menu></app-menu>
+<div class="box" *ngFor="let item of response">
+  
+   <img class="news" src="assets/{{item.image}}" alt="">
+  
+    <div class="location">{{ item.Location }}</div>
+    <div class="date">{{ item.Date }}</div>
+    <h1>{{item.Title}}</h1>
+ <div>
+    {{item.NewsDes}}
+ </div>
+</div>
+

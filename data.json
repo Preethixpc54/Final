@@ -1,0 +1,121 @@
+{
+  "contacts": [
+    {
+      "title": "Corporate Branch",
+      "address": "90, IST floor , Main Road",
+      "city": "T Nagar,Chennai",
+      "pin": 600017,
+      "image": "chennai.jpeg"
+    },
+    {
+      "title": "Head Quarters",
+      "address": "9023, 2nd floor , Tilak cross",
+      "city": "MG Road,Hyderabad",
+      "pin": 589034,
+      "image": "hyderabad.jpeg"
+    },
+    {
+      "title": "Regional Branch",
+      "address": "43, 3rd floor , Jay Road",
+      "city": "Gandhi Nagar, Mumbai",
+      "pin": 100011,
+      "image": "mumbai.jpeg"
+    }
+  ],
+ "users": [
+    {
+      "Name": "Preethi",
+      "UserName": "Preethi",
+      "Role": "User",
+      "password":"Welcome@1234",
+	  "image":"Preethi.jpg"
+    },
+    {
+     "Name": "Rahul",
+      "UserName": "Rahul",
+      "Role": "User",
+      "password":"Welcome@1234",
+	   "image":"Rahul.jpg"
+    },
+    {
+      "Name": "Rajesh",
+      "UserName": "",
+      "Role": "User",
+      "password":"Welcome@1234",
+	   "image":"Rajesh.jpg"
+    }
+  ],
+  "news": [
+    {
+     "image":"Event1.jpg",
+     "Title":"EuroMedLab-WorldLab",
+	 "Location":"La Nuvola - Rome convention group",
+     "NewsDes":"Dedalus is thrilled to exhibit at EuroMedLab-WorldLab Congress in Rome, from May 21st to 25th, 2023. If you are attending, please visit us at exhibition booth 204-211 to hear more about our international, premium portfolio of IVD solutions: the gold standard in the European market",
+     "Date":"21/05/2023 - 25/05/2023"
+
+    },
+    {
+      "image":"Event2.jpeg",
+      "Title":"HIMSS 2023",
+	  "Location":"McCormick Place, Chicago, Illinois",
+      "NewsDes":"Please join Dedalus at the HIMSS Interoperability Showcase and see our Whole Person Care Model in action. See how we have created a unique whole-person care model to orchestrate medical, behavioral and community services, seamlessly combining individual care plans, activity management scheduling and frictionless referral orchestration in one integrated, coordinated mobile platform.",
+      "Date":"17/04/2023 - 21/04/2023"
+ 
+     },
+   {
+      "image":"Event3.jpg",
+      "Title":"HIMSS 22",
+	  "Location":"Orlando",
+      "NewsDes":"Experience education from world-class speakers, the latest innovations in health and IT products, plus powerful 1:1 networking at the 2021 HIMSS Global Health Conference & Exhibition. Come find us on our booth #6751.",
+      "Date":"14/03/2022 - 18/03/2022"
+ 
+     },
+	 {
+      "image":"Event4.jpeg",
+      "Title":"Arab Health 2023",
+	  "Location":"Dubai, United Arab Emirates",
+      "NewsDes":"Dedalus presented HYDMedia G6, its latest version of the Enterprise Content Management Solution for healthcare organisations, at Arab Health 2023. It was a great pleasure to meet our dear customers in order to discuss about their challenges, projects and needs – and how HYDMedia can help.",
+      "Date":"30/01/2023 - 02/02/2023"
+ 
+     },
+	 {
+      "image":"Event5.jpg",
+      "Title":"ECR 2023",
+	  "Location":"Austria Center Vienna - Vienna, Austria",
+      "NewsDes":"The European Congress of Radiology (ECR) is the annual meeting of the European Society of Radiology (ESR). It is a trend-setting, dynamic and service-oriented congress, well-known as one of the most innovative meetings within the scientific community, embedded in a unique and inspiring ambience.",
+      "Date":"01/03/2023 - 05/03/2023"
+ 
+     },
+	 {
+      "image":"Event6.jpg",
+      "Title":"RSNA 2022",
+	  "Location":"McCormick Place, Chicago, Illinois",
+      "NewsDes":"Dedalus is proud to attend RSNA for the first time in North America, as we empower radiology innovators and healthcare organizations with our enterprise imaging solutions. Meet with us at Booth 3165 and South Hall Level 3.",
+      "Date":"27/11/2022 - 01/12/2022"
+ 
+     },
+	 {
+      "image":"Event7.jpg",
+      "Title":"INFORSALUD 2022",
+      "NewsDes":"Experience education from national and intenational experts and key decision-makers in Healthcare IT, the latest innovations in health and IT products, plus powerful 1:1 networking at INFORSALUD 2022, focused on the theme: “The evolution of Digital Health Ecosystem”.",
+      "Date":"22/03/2022 - 24/03/2022"
+ 
+     },
+	 {
+      "image":"Event8.jpg",
+      "Title":"ViVE 2022",
+	  "Location":"MIAMI BEACH",
+      "NewsDes":"Dedalus is proud to attend ViVE, the industry’s new health information technology event focused on the business of healthcare systems.",
+      "Date":"06/03/2022 - 09/03/2022"
+ 
+     },
+	 {
+      "image":"Event9.jpg",
+      "Title":"Arab Health",
+	  "Location":"Dubai World Trade Centre - Dedalus stand location cumber: CC39 - Hall: Concourse 2",
+      "NewsDes":"Arab Health, co-located with Medlab Middle East, is once again set to unite the global healthcare industry at the Dubai World Trade Centre.",
+      "Date":"21/06/2021 - 24/06/2021"
+ 
+     }
+  ]
+}

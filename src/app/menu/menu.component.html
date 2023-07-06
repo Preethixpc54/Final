@@ -1,0 +1,15 @@
+<mat-toolbar id="main-menu">
+    <img class="logo" src="assets/Dedalus-Logo.jpeg" alt="">
+    <ul>
+<li><a [routerLink]="'/Home'" routerLinkActive="active" >Home</a></li>
+<li><a>Projects</a></li>
+<li><a [routerLink]="'/news-feed'" routerLinkActive="active" >News</a></li>
+<li><a>Contacts</a></li>
+</ul>
+
+<div class="container">
+    <button class="signin" (click)="openDialog()" type="button">{{lbl}}</button>
+    <img src="assets/{{image}}" class="log-in" alt="">
+ </div>
+
+</mat-toolbar>
